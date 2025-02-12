@@ -21,7 +21,9 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshots
-
+Desktop                                                                                              |  Mobile
+:---------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:
+![Example Desktop](https://github.com/user-attachments/assets/3ef2e7fa-8319-4ccb-a3c3-2e06791d76c9)  | ![Example Mobile](https://github.com/user-attachments/assets/8faea2bf-1795-43a2-bb13-b25efac89b04)
 
 ### Links
 
