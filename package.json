@@ -1,8 +1,9 @@
 {
-  "name": "vite-boilerplate",
+  "name": "product-preview-card-component",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "homepage": "https://michaelclemens.github.io/product-preview-card-component/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
