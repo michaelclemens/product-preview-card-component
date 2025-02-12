@@ -5,7 +5,7 @@ const Card = ({ children }: { children: React.ReactNode }) => (
 )
 
 const CardBody = ({ children }: { children: React.ReactNode }) => (
-  <div className="font-montserrat text-dark-grayish-blue flex flex-col p-6 text-sm font-medium md:p-8">{children}</div>
+  <div className="font-montserrat text-dark-grayish-blue flex flex-col p-6 text-sm font-medium md:p-[34px]">{children}</div>
 )
 
 Card.body = CardBody
